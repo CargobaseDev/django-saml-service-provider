@@ -14,7 +14,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'Django>=1.4',
-        'python-saml'
+        'python3-saml'
     ],
     classifiers=[
         "Development Status :: 5 - Production/Stable",
